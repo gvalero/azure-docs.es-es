@@ -38,7 +38,7 @@ Si no tiene una suscripción a Azure, cree una [cuenta gratuita](https://azure.m
 
 ## <a name="prepare-azure-resources"></a>Preparar recursos de Azure 
 
-Debe tener algunos recursos preparados en Azure para las instancias de EC2 migradas que se van a usar. Se incluyen una cuenta de almacenamiento, un almacén y una red virtual.
+Debe tener algunos recursos preparados en Azure para las instancias de EC2 migradas que se van a usar. Tales incluyen una cuenta de almacenamiento, un almacén y una red virtual.
 
 ### <a name="create-a-storage-account"></a>Crear una cuenta de almacenamiento
 
